@@ -1,0 +1,15 @@
+Code:
+Hàm chuyển từ ma trận --> list các CNF constraints (không được trùng nhau) (10%)
+Hàm dùng pysat library để từ list các CNF constraints  --> kết quả bài toán (10%)
+Hàm dùng thuật toán A* để từ list các CNF constraints --> kết quả bài toán (10%)
+Hàm dùng bruteforce để giải bài toán 
+Hàm dùng backtrack để giải bài toán
+
+
+Giao diện chương trình (có thể dùng thư viện tkinter): (10%) 
++ có 1 text field để điền đường dẫn file input
++ Thể hiện từng bước của thuật toán A*: số step và giá trị heuristic
++ Nút stop để dừng chạy thuật toán
+
+
+
